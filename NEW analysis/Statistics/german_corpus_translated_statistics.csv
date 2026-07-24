@@ -1,0 +1,12 @@
+Domain,Number of texts,Token count,ø Sentences per text,TTR
+Art,16,31162,132,0.19
+Business,16,28575,131,0.19
+Education,15,30332,133,0.205
+Entertainment,15,26843,134,0.182
+History,15,25840,110,0.219
+Medicine,17,36610,140,0.175
+Philosophy,15,37098,170,0.173
+Politics,17,37452,137,0.185
+Psychology,17,34061,148,0.175
+Science,22,45144,136,0.16
+Technology,25,35424,92,0.19
