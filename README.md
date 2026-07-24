@@ -1,6 +1,6 @@
 # AttituTED Corpus
 
-**A bilingual (English–German) corpus of TED Talks annotated for evaluative language (Appraisal / Attitude), built for the LREC 2026 paper *"EmotionalizTED Corpus"*.**
+**A bilingual (English–German) corpus of TED Talks annotated for evaluative language (Appraisal / Attitude), built for a project of investigating evaluative language use in English and German.**
 
 AttituTED-Corpus supports the study of how speakers express **attitude, opinion, and evaluation** (in the sense of Appraisal Theory) across ten academic/topical disciplines, and how that evaluative language behaves under **human translation** from English into German — as well as how it compares to **originally-German** TED Talks on the same topics.
 
