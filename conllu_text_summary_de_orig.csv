@@ -1,0 +1,111 @@
+filepath,filename,folder,language,discipline,tokens,sentences,pairs,tokens_per_sentence
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_10_de.conllu,Art_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,1443,125,124,11.544
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_1_de.conllu,Art_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,4182,340,339,12.3
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_2_de.conllu,Art_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,2243,163,162,13.760736196319018
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_3_de.conllu,Art_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,2257,163,162,13.846625766871165
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_4_de.conllu,Art_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,2233,153,152,14.594771241830065
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_5_de.conllu,Art_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,3889,276,275,14.090579710144928
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_6_de.conllu,Art_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,2785,220,219,12.659090909090908
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_7_de.conllu,Art_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,1968,153,152,12.862745098039216
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_8_de.conllu,Art_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,1007,75,74,13.426666666666666
+conllu_file/German Ted talk Transcripts/Transcripts_Art/Art_9_de.conllu,Art_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Art,de_orig,Art,3049,304,303,10.029605263157896
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_10_de.conllu,Bus_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,2874,208,207,13.817307692307692
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_1_de.conllu,Bus_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,2752,193,192,14.259067357512953
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_2_de.conllu,Bus_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,3782,309,308,12.239482200647249
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_3_de.conllu,Bus_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,761,75,74,10.146666666666667
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_4_de.conllu,Bus_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,3631,291,290,12.47766323024055
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_5_de.conllu,Bus_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,3024,250,249,12.096
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_6_de.conllu,Bus_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,2067,221,220,9.352941176470589
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_7_de.conllu,Bus_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,1635,118,117,13.85593220338983
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_8_de.conllu,Bus_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,1812,123,122,14.731707317073171
+conllu_file/German Ted talk Transcripts/Transcripts_Business/Bus_9_de.conllu,Bus_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Business,de_orig,Bus,1901,159,158,11.955974842767295
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_10_de.conllu,Edu_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,2160,168,167,12.857142857142858
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_1_de.conllu,Edu_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,1717,111,110,15.468468468468469
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_2_de.conllu,Edu_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,2752,202,201,13.623762376237623
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_3_de.conllu,Edu_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,2734,217,216,12.599078341013826
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_4_de.conllu,Edu_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,3707,206,205,17.99514563106796
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_5_de.conllu,Edu_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,3012,200,199,15.06
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_6_de.conllu,Edu_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,2227,170,169,13.1
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_7_de.conllu,Edu_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,3220,279,278,11.54121863799283
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_8_de.conllu,Edu_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,3317,299,298,11.093645484949834
+conllu_file/German Ted talk Transcripts/Transcripts_Education/Edu_9_de.conllu,Edu_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Education,de_orig,Edu,1840,146,145,12.602739726027398
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_10_de.conllu,Ent_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,2923,243,242,12.02880658436214
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_1_de.conllu,Ent_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,1869,123,122,15.195121951219512
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_2_de.conllu,Ent_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,4084,335,334,12.191044776119403
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_3_de.conllu,Ent_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,5285,451,450,11.71840354767184
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_4_de.conllu,Ent_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,3320,323,322,10.278637770897832
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_5_de.conllu,Ent_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,2224,210,209,10.59047619047619
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_6_de.conllu,Ent_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,1380,138,137,10.0
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_7_de.conllu,Ent_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,511,48,47,10.645833333333334
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_8_de.conllu,Ent_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,2969,236,235,12.580508474576272
+conllu_file/German Ted talk Transcripts/Transcripts_Entertainment/Ent_9_de.conllu,Ent_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Entertainment,de_orig,Ent,2444,163,162,14.993865030674847
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_10_de.conllu,His_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,2328,222,221,10.486486486486486
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_1_de.conllu,His_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,2062,150,149,13.746666666666666
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_2_de.conllu,His_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,2465,220,219,11.204545454545455
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_3_de.conllu,His_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,4288,308,307,13.922077922077921
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_4_de.conllu,His_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,1576,129,128,12.217054263565892
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_5_de.conllu,His_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,3697,233,232,15.866952789699571
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_6_de.conllu,His_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,1949,171,170,11.397660818713451
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_7_de.conllu,His_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,2944,286,285,10.293706293706293
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_8_de.conllu,His_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,2191,195,194,11.235897435897435
+conllu_file/German Ted talk Transcripts/Transcripts_History/His_9_de.conllu,His_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_History,de_orig,His,2788,235,234,11.863829787234042
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_10_de.conllu,Med_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,2523,173,172,14.583815028901734
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_1_de.conllu,Med_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,2474,210,209,11.780952380952382
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_2_de.conllu,Med_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,3428,241,240,14.224066390041493
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_3_de.conllu,Med_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,2388,167,166,14.29940119760479
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_4_de.conllu,Med_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,1439,116,115,12.405172413793103
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_5_de.conllu,Med_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,3309,223,222,14.838565022421525
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_6_de.conllu,Med_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,2458,149,148,16.496644295302012
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_7_de.conllu,Med_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,1714,117,116,14.649572649572649
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_8_de.conllu,Med_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,2449,151,150,16.218543046357617
+conllu_file/German Ted talk Transcripts/Transcripts_Medicine/Med_9_de.conllu,Med_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Medicine,de_orig,Med,1932,143,142,13.51048951048951
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_10_de.conllu,Phi_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,1886,170,169,11.094117647058823
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_1_de.conllu,Phi_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,2517,201,200,12.522388059701493
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_2_de.conllu,Phi_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,1666,142,141,11.732394366197184
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_3_de.conllu,Phi_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,1945,138,137,14.094202898550725
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_4_de.conllu,Phi_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,2801,217,216,12.90783410138249
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_5_de.conllu,Phi_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,2658,255,254,10.423529411764706
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_6_de.conllu,Phi_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,2299,180,179,12.772222222222222
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_7_de.conllu,Phi_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,2408,244,243,9.868852459016393
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_8_de.conllu,Phi_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,2326,220,219,10.572727272727272
+conllu_file/German Ted talk Transcripts/Transcripts_Philosophy/Phi_9_de.conllu,Phi_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Philosophy,de_orig,Phi,2247,215,214,10.451162790697675
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_10_de.conllu,Pol_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2853,255,254,11.188235294117646
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_1_de.conllu,Pol_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2425,225,224,10.777777777777779
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_2_de.conllu,Pol_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2705,213,212,12.699530516431924
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_3_de.conllu,Pol_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,466,43,42,10.837209302325581
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_4_de.conllu,Pol_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2552,202,201,12.633663366336634
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_5_de.conllu,Pol_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2084,154,153,13.532467532467532
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_6_de.conllu,Pol_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2749,205,204,13.409756097560976
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_7_de.conllu,Pol_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2210,171,170,12.923976608187134
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_8_de.conllu,Pol_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2652,196,195,13.53061224489796
+conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law/Pol_9_de.conllu,Pol_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Politics and Law,de_orig,Pol,2315,179,178,12.932960893854748
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_10_de.conllu,Psy_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,2213,221,220,10.013574660633484
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_1_de.conllu,Psy_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,2380,237,236,10.042194092827005
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_2_de.conllu,Psy_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,1426,108,107,13.203703703703704
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_3_de.conllu,Psy_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,2011,182,181,11.04945054945055
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_4_de.conllu,Psy_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,2571,174,173,14.775862068965518
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_5_de.conllu,Psy_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,3075,240,239,12.8125
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_6_de.conllu,Psy_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,3523,303,302,11.627062706270626
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_7_de.conllu,Psy_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,3248,257,256,12.638132295719844
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_8_de.conllu,Psy_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,2304,182,181,12.659340659340659
+conllu_file/German Ted talk Transcripts/Transcripts_Psychology/Psy_9_de.conllu,Psy_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Psychology,de_orig,Psy,846,69,68,12.26086956521739
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_10_de.conllu,Sci_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,2073,166,165,12.487951807228916
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_1_de.conllu,Sci_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,2351,158,157,14.879746835443038
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_2_de.conllu,Sci_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,2965,186,185,15.940860215053764
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_3_de.conllu,Sci_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,1863,155,154,12.019354838709678
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_4_de.conllu,Sci_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,2416,199,198,12.140703517587939
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_5_de.conllu,Sci_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,3235,200,199,16.175
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_6_de.conllu,Sci_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,2130,182,181,11.703296703296703
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_7_de.conllu,Sci_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,1455,124,123,11.733870967741936
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_8_de.conllu,Sci_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,2858,192,191,14.885416666666666
+conllu_file/German Ted talk Transcripts/Transcripts_Science/Sci_9_de.conllu,Sci_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Science,de_orig,Sci,1733,137,136,12.64963503649635
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_10_de.conllu,Tech_10_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,1714,146,145,11.73972602739726
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_1_de.conllu,Tech_1_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,2225,197,196,11.294416243654823
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_2_de.conllu,Tech_2_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,2073,159,158,13.037735849056604
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_3_de.conllu,Tech_3_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,2335,173,172,13.497109826589595
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_4_de.conllu,Tech_4_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,3401,233,232,14.59656652360515
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_5_de.conllu,Tech_5_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,2548,275,274,9.265454545454546
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_6_de.conllu,Tech_6_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,1683,124,123,13.57258064516129
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_7_de.conllu,Tech_7_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,3984,272,271,14.647058823529411
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_8_de.conllu,Tech_8_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,2697,161,160,16.751552795031056
+conllu_file/German Ted talk Transcripts/Transcripts_Technology/Tech_9_de.conllu,Tech_9_de.conllu,conllu_file/German Ted talk Transcripts/Transcripts_Technology,de_orig,Tech,3874,240,239,16.141666666666666
